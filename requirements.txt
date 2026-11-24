@@ -1,0 +1,20 @@
+
+# API and Backend
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+# Environment Configuration
+python-dotenv
+
+# Data Processing
+pandas
+
+# SQL Validation
+sqlglot
+
+# Testing
+pytest

@@ -1,0 +1,11 @@
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Local Codex instructions
+PROJECT_CONTEXT.md
+AGENTS.md
