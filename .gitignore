@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .DS_Store
+/data/jaffle_shop/raw/
 # Local Codex instructions
 PROJECT_CONTEXT.md
 AGENTS.md
