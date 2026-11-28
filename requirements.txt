@@ -2,6 +2,8 @@
 # API and Backend
 fastapi
 uvicorn[standard]
+httpx==0.28.1
+openai==2.54.0
 
 # Database
 sqlalchemy
